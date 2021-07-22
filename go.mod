@@ -1,4 +1,4 @@
-module matthiasbruns/golang_utils
+module github.com/matthiasbruns/golang_utils
 
 go 1.15
 
